@@ -6,11 +6,6 @@ Olá! Me chamo Tiago Daniel dos Santos e estou atualmente cursando Análise e De
 
 Meu interesse principal é atuar com Backend e Análise de Dados. Acredito que minha formação anterior e meu perfil analítico serão diferenciais importantes nessa jornada.
 
-## Formação
-
-- Graduação em Análise e Desenvolvimento de Sistemas, FATEC Indaiatuba (Previsão de Conclusão: 2026)
-- Graduação em Gestão da Qualidade (2012)
-  
 ## Projetos
 
 Atualmente, estou iniciando minha jornada na área de programação e em breve estarei desenvolvendo projetos para compartilhar aqui.
