@@ -14,4 +14,4 @@ Atualmente, estou iniciando minha jornada na área de programação e em breve e
 
 - Email: tiago.d.santos@hotmail.com
 - LinkedIn: www.linkedin.com/in/tiago-daniel-dos-santos-79230534
-- GitHub: https://github.com/xXTIAGODSXx
+- GitHub: https://github.com/xXTIAGODS
